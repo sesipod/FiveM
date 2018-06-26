@@ -13,7 +13,7 @@ Config.Zones = {
   ShopEntering = {
     Pos   = { x = -33.777, y = -1102.021, z = 25.422 },
     Size  = { x = 1.5, y = 1.5, z = 1.0 },
-    Type  = 1,
+    Type  = 27,
   },
 
   ShopInside = {
@@ -45,7 +45,7 @@ Config.Zones = {
   ResellVehicle = {
     Pos   = { x = -44.630, y = -1080.738, z = 25.683 },
     Size  = { x = 3.0, y = 3.0, z = 1.0 },
-    Type  = 1,
+    Type  = 27,
   },
 
 }
